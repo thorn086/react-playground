@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Messages component renders the UI as expected 1`] = `
+<div
+  className="messages"
+>
+  Messages
+</div>
+`;
+
+exports[`Messages component renders the UI as expected with no unreads 1`] = `
+<div
+  className="messages"
+>
+  Messages
+</div>
+`;
